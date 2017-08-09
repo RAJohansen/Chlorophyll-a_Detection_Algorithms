@@ -1,11 +1,11 @@
-# Chlorophyll-a detection and value extraction from raster imagery
+# Chlorophyll-a Detection and Value Extraction from Raster Imagery
 
 This project is designed to spatially and spectrally resample imagery to mimic the 
-configurations of WorldView-2, Sentinel-2, Landsat-8, MODIS, and MERIS sensors (01A and 01B).
+configurations of WorldView-2, Sentinel-2, Landsat-8, MODIS, and MERIS sensors (Scripts 01A and 01B).
 The next step is to run the cholorophyll-a detection algorithms on each sensor including the
-original dataset (02). The new raster values are extracted from the locations of a shapefile,
-and converted into a CSV file (03). Finally, the values extracted to the CSV file 
-are used to run linear modeling(04A) and geometric modeling (04B) to derive Pearson's R,
+original dataset (Script 02). The new raster values are extracted from the locations of a shapefile,
+and converted into a CSV file (Script 03). Finally, the values extracted to the CSV file 
+are used to run linear modeling(Script 04A) and geometric modeling (Script 04B) to derive Pearson's R,
 R_squared, slope, and intercept values.
 
 ### NOTES:
