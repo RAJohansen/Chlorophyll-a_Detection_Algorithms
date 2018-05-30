@@ -1,4 +1,4 @@
-# Chlorophyll-a Detection and Value Extraction from Raster Imagery
+# Harmful Algal Bloom Detection Value Extraction Using Chlorophyll-a and Raster Imagery
 
 This project is designed to spatially and spectrally resample imagery to mimic the 
 configurations of WorldView-2, Sentinel-2, Landsat-8, MODIS, and MERIS sensors (Scripts 01A and 01B).
